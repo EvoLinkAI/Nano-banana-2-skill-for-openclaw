@@ -61,7 +61,7 @@ openclaw skills add .
 
 ## API Key 받기
 
-1. [evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)에서 가입
+1. [evolink.ai](https://evolink.ai/signup?utm_source=github[evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)utm_medium=readme[evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)utm_campaign=nano-banana-2-skill-for-openclaw)에서 가입
 2. Dashboard → API Keys로 이동
 3. 새 API 키 생성
 4. 환경 변수에 설정:

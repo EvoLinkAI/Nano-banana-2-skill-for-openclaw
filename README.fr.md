@@ -61,7 +61,7 @@ openclaw skills add .
 
 ## Obtenir une API Key
 
-1. Inscrivez-vous sur [evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)
+1. Inscrivez-vous sur [evolink.ai](https://evolink.ai/signup?utm_source=github[evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)utm_medium=readme[evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)utm_campaign=nano-banana-2-skill-for-openclaw)
 2. Allez dans Dashboard → API Keys
 3. Créez une nouvelle clé API
 4. Configurez-la dans votre environnement:
