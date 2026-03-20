@@ -9,7 +9,7 @@
   <a href="#instalación">Instalar</a> •
   <a href="#obtener-api-key">API Key</a> •
   <a href="#generación-de-imágenes">Generar</a> •
-  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw">EvoLink</a>
+  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw">EvoLink</a>
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ openclaw skills add .
 
 ## Obtener API Key
 
-1. Regístrate en [evolink.ai](https://evolink.ai/signup?utm_source=github[evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)utm_medium=readme[evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)utm_campaign=nano-banana-2-skill-for-openclaw)
+1. Regístrate en [evolink.ai](https://evolink.ai/signup?utm_source=github[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)utm_medium=readme[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)utm_campaign=nano-banana-2-skill-for-openclaw)
 2. Ve a Dashboard → API Keys
 3. Crea una nueva API key
 4. Configúrala en tu entorno:
@@ -100,5 +100,5 @@ MIT
 ---
 
 <p align="center">
-  Impulsado por <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw"><strong>EvoLink</strong></a> — Gateway de API de IA Unificado
+  Impulsado por <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw"><strong>EvoLink</strong></a> — Gateway de API de IA Unificado
 </p>

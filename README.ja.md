@@ -9,7 +9,7 @@
   <a href="#インストール">インストール</a> •
   <a href="#api-key-の取得">API Key</a> •
   <a href="#画像生成">生成</a> •
-  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw">EvoLink</a>
+  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw">EvoLink</a>
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ openclaw skills add .
 
 ## API Key の取得
 
-1. [evolink.ai](https://evolink.ai/signup?utm_source=github[evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)utm_medium=readme[evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)utm_campaign=nano-banana-2-skill-for-openclaw) で登録
+1. [evolink.ai](https://evolink.ai/signup?utm_source=github[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)utm_medium=readme[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)utm_campaign=nano-banana-2-skill-for-openclaw) で登録
 2. Dashboard → API Keys に移動
 3. 新しい API キーを作成
 4. 環境変数に設定：
@@ -100,5 +100,5 @@ MIT
 ---
 
 <p align="center">
-  Powered by <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw"><strong>EvoLink</strong></a> — Unified AI API Gateway
+  Powered by <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw"><strong>EvoLink</strong></a> — Unified AI API Gateway
 </p>
