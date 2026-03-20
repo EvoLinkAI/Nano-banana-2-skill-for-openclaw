@@ -9,7 +9,7 @@
   <a href="#설치">설치</a> •
   <a href="#api-key-받기">API Key</a> •
   <a href="#이미지-생성">생성</a> •
-  <a href="https://evolink.ai">EvoLink</a>
+  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw">EvoLink</a>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## 이것은 무엇인가요?
 
-[EvoLink](https://evolink.ai) 제공 [OpenClaw](https://github.com/openclaw/openclaw) 스킬입니다. 하나의 스킬을 설치하면 AI 에이전트가 Google의 Gemini 3.1 Flash 이미지 모델에 액세스 — 단일 API를 통해 빠른 텍스트-투-이미지 생성 및 이미지 편집이 가능합니다.
+[EvoLink](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw) 제공 [OpenClaw](https://github.com/openclaw/openclaw) 스킬입니다. 하나의 스킬을 설치하면 AI 에이전트가 Google의 Gemini 3.1 Flash 이미지 모델에 액세스 — 단일 API를 통해 빠른 텍스트-투-이미지 생성 및 이미지 편집이 가능합니다.
 
 | 스킬 | 설명 | 제공자 |
 |------|------|--------|
@@ -61,7 +61,7 @@ openclaw skills add .
 
 ## API Key 받기
 
-1. [evolink.ai](https://evolink.ai)에서 가입
+1. [evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)에서 가입
 2. Dashboard → API Keys로 이동
 3. 새 API 키 생성
 4. 환경 변수에 설정:
@@ -100,5 +100,5 @@ MIT
 ---
 
 <p align="center">
-  Powered by <a href="https://evolink.ai"><strong>EvoLink</strong></a> — Unified AI API Gateway
+  Powered by <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw"><strong>EvoLink</strong></a> — Unified AI API Gateway
 </p>

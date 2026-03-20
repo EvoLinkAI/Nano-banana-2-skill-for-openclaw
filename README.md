@@ -9,7 +9,7 @@
   <a href="#installation">Install</a> •
   <a href="#get-api-key">API Key</a> •
   <a href="#image-generation">Generate</a> •
-  <a href="https://evolink.ai">EvoLink</a>
+  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw">EvoLink</a>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## What Is This?
 
-An [OpenClaw](https://github.com/openclaw/openclaw) skill powered by [EvoLink](https://evolink.ai). Install one skill, and your AI agent gets access to Google's Gemini 3.1 Flash image model — fast text-to-image and image editing through a single API.
+An [OpenClaw](https://github.com/openclaw/openclaw) skill powered by [EvoLink](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw). Install one skill, and your AI agent gets access to Google's Gemini 3.1 Flash image model — fast text-to-image and image editing through a single API.
 
 | Skill | Description | Provider |
 |-------|-------------|----------|
@@ -37,7 +37,7 @@ An [OpenClaw](https://github.com/openclaw/openclaw) skill powered by [EvoLink](h
 
 > Focused view of [evolink-image](https://clawhub.ai/EvoLinkAI/evolink-image). Install the full skill for 19 image models, video, and music.
 
-🚀 **[Try All Models Now →](https://evolink.ai/models)**
+🚀 **[Try All Models Now →](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)**
 
 ---
 
@@ -63,7 +63,7 @@ openclaw skills add .
 
 ## Get API Key
 
-1. Sign up at [evolink.ai](https://evolink.ai)
+1. Sign up at [evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)
 2. Go to Dashboard → API Keys
 3. Create a new Key
 4. Set the environment variable:
@@ -244,8 +244,8 @@ Full API documentation: [references/api-params.md](references/api-params.md)
 |---------|----------|
 | `jq: command not found` | Install jq: `apt install jq` / `brew install jq` |
 | `curl: command not found` | Install curl: `apt install curl` / `brew install curl` |
-| `401 Unauthorized` | Check `EVOLINK_API_KEY` at [evolink.ai/dashboard](https://evolink.ai/dashboard) |
-| `402 Payment Required` | Top up at [evolink.ai/dashboard](https://evolink.ai/dashboard) |
+| `401 Unauthorized` | Check `EVOLINK_API_KEY` at [evolink.ai/dashboard](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw) |
+| `402 Payment Required` | Top up at [evolink.ai/dashboard](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw) |
 | Content blocked | Celebrities/NSFW/violence restricted — modify your prompt |
 | Generation timeout | Try `nano-banana-2-lite` for faster results |
 
@@ -272,5 +272,5 @@ MIT
 ---
 
 <p align="center">
-  Powered by <a href="https://evolink.ai"><strong>EvoLink</strong></a> — Unified AI API Gateway
+  Powered by <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw"><strong>EvoLink</strong></a> — Unified AI API Gateway
 </p>

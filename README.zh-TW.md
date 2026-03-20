@@ -9,7 +9,7 @@
   <a href="#安裝">安裝</a> •
   <a href="#取得-api-key">API Key</a> •
   <a href="#圖片生成">生成</a> •
-  <a href="https://evolink.ai">EvoLink</a>
+  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw">EvoLink</a>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## 這是什麼？
 
-[EvoLink](https://evolink.ai) 提供的 [OpenClaw](https://github.com/openclaw/openclaw) 技能包。安裝一個技能，你的 AI 代理就能訪問 Google 的 Gemini 3.1 Flash 圖片模型 — 通過單一 API 快速進行文字轉圖片和圖片編輯。
+[EvoLink](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw) 提供的 [OpenClaw](https://github.com/openclaw/openclaw) 技能包。安裝一個技能，你的 AI 代理就能訪問 Google 的 Gemini 3.1 Flash 圖片模型 — 通過單一 API 快速進行文字轉圖片和圖片編輯。
 
 | 技能 | 描述 | 提供商 |
 |------|------|--------|
@@ -61,7 +61,7 @@ openclaw skills add .
 
 ## 取得 API Key
 
-1. 在 [evolink.ai](https://evolink.ai) 註冊
+1. 在 [evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw) 註冊
 2. 前往 Dashboard → API Keys
 3. 創建新的 API 金鑰
 4. 設置環境變量：
@@ -100,5 +100,5 @@ MIT
 ---
 
 <p align="center">
-  由 <a href="https://evolink.ai"><strong>EvoLink</strong></a> 提供支持 — 統一 AI API 閘道
+  由 <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw"><strong>EvoLink</strong></a> 提供支持 — 統一 AI API 閘道
 </p>

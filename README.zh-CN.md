@@ -9,7 +9,7 @@
   <a href="#安装">安装</a> •
   <a href="#获取-api-key">API Key</a> •
   <a href="#图片生成">生成</a> •
-  <a href="https://evolink.ai">EvoLink</a>
+  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw">EvoLink</a>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 这是什么？
 
-一套基于 [EvoLink](https://evolink.ai) 的 [OpenClaw](https://github.com/openclaw/openclaw) 技能包。安装一个技能，你的 AI 代理就能使用 Google 最新的 Gemini 3.1 Flash 图片模型 — 快速文生图和图片编辑，全部通过一个 API 搞定。
+一套基于 [EvoLink](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw) 的 [OpenClaw](https://github.com/openclaw/openclaw) 技能包。安装一个技能，你的 AI 代理就能使用 Google 最新的 Gemini 3.1 Flash 图片模型 — 快速文生图和图片编辑，全部通过一个 API 搞定。
 
 | 技能 | 描述 | 供应商 |
 |------|------|--------|
@@ -30,7 +30,7 @@
 
 > 这是 [evolink-image](https://clawhub.ai/EvoLinkAI/evolink-image) 的聚焦版。安装完整版可获得 19 个图片模型、视频和音乐生成能力。
 
-🚀 **[立即体验所有模型 →](https://evolink.ai/models)**
+🚀 **[立即体验所有模型 →](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)**
 
 ---
 
@@ -56,7 +56,7 @@ openclaw skills add .
 
 ## 获取 API Key
 
-1. 在 [evolink.ai](https://evolink.ai) 注册
+1. 在 [evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw) 注册
 2. 进入 Dashboard → API Keys
 3. 创建新 Key
 4. 设置环境变量：
@@ -237,8 +237,8 @@ claude mcp add evolink-media -e EVOLINK_API_KEY=your-key -- npx -y @evolinkai/ev
 |------|---------| 
 | `jq: command not found` | 安装 jq：`apt install jq` / `brew install jq` |
 | `curl: command not found` | 安装 curl：`apt install curl` / `brew install curl` |
-| `401 Unauthorized` | 检查 `EVOLINK_API_KEY`，在 [evolink.ai/dashboard](https://evolink.ai/dashboard) 确认 |
-| `402 Payment Required` | 在 [evolink.ai/dashboard](https://evolink.ai/dashboard) 充值 |
+| `401 Unauthorized` | 检查 `EVOLINK_API_KEY`，在 [evolink.ai/dashboard](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw) 确认 |
+| `402 Payment Required` | 在 [evolink.ai/dashboard](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw) 充值 |
 | 内容被拦截 | 名人/NSFW/暴力内容受限 — 修改提示词 |
 | 生成超时 | 试试 `nano-banana-2-lite` 获得更快结果 |
 
@@ -265,5 +265,5 @@ MIT
 ---
 
 <p align="center">
-  由 <a href="https://evolink.ai"><strong>EvoLink</strong></a> 提供支持 — 统一 AI API 网关
+  由 <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw"><strong>EvoLink</strong></a> 提供支持 — 统一 AI API 网关
 </p>

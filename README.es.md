@@ -9,7 +9,7 @@
   <a href="#instalación">Instalar</a> •
   <a href="#obtener-api-key">API Key</a> •
   <a href="#generación-de-imágenes">Generar</a> •
-  <a href="https://evolink.ai">EvoLink</a>
+  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw">EvoLink</a>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## ¿Qué es esto?
 
-Un skill de [OpenClaw](https://github.com/openclaw/openclaw) impulsado por [EvoLink](https://evolink.ai). Instala un skill y tu agente de IA obtiene acceso al modelo de imágenes Gemini 3.1 Flash de Google — generación rápida de texto a imagen y edición de imágenes a través de una sola API.
+Un skill de [OpenClaw](https://github.com/openclaw/openclaw) impulsado por [EvoLink](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw). Instala un skill y tu agente de IA obtiene acceso al modelo de imágenes Gemini 3.1 Flash de Google — generación rápida de texto a imagen y edición de imágenes a través de una sola API.
 
 | Skill | Descripción | Proveedor |
 |-------|-------------|-----------|
@@ -61,7 +61,7 @@ openclaw skills add .
 
 ## Obtener API Key
 
-1. Regístrate en [evolink.ai](https://evolink.ai)
+1. Regístrate en [evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)
 2. Ve a Dashboard → API Keys
 3. Crea una nueva API key
 4. Configúrala en tu entorno:
@@ -100,5 +100,5 @@ MIT
 ---
 
 <p align="center">
-  Impulsado por <a href="https://evolink.ai"><strong>EvoLink</strong></a> — Gateway de API de IA Unificado
+  Impulsado por <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw"><strong>EvoLink</strong></a> — Gateway de API de IA Unificado
 </p>

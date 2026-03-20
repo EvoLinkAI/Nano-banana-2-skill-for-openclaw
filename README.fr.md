@@ -9,7 +9,7 @@
   <a href="#installation">Installer</a> •
   <a href="#obtenir-une-api-key">API Key</a> •
   <a href="#génération-dimages">Générer</a> •
-  <a href="https://evolink.ai">EvoLink</a>
+  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw">EvoLink</a>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## Qu\'est-ce que c\'est ?
 
-Un skill [OpenClaw](https://github.com/openclaw/openclaw) propulsé par [EvoLink](https://evolink.ai). Installez un skill et votre agent IA obtient l\'accès au modèle d\'image Gemini 3.1 Flash de Google — génération rapide de texte à image et édition d\'images via une seule API.
+Un skill [OpenClaw](https://github.com/openclaw/openclaw) propulsé par [EvoLink](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw). Installez un skill et votre agent IA obtient l\'accès au modèle d\'image Gemini 3.1 Flash de Google — génération rapide de texte à image et édition d\'images via une seule API.
 
 | Skill | Description | Fournisseur |
 |-------|-------------|-------------|
@@ -61,7 +61,7 @@ openclaw skills add .
 
 ## Obtenir une API Key
 
-1. Inscrivez-vous sur [evolink.ai](https://evolink.ai)
+1. Inscrivez-vous sur [evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)
 2. Allez dans Dashboard → API Keys
 3. Créez une nouvelle clé API
 4. Configurez-la dans votre environnement:
@@ -100,5 +100,5 @@ MIT
 ---
 
 <p align="center">
-  Propulsé par <a href="https://evolink.ai"><strong>EvoLink</strong></a> — Passerelle API IA Unifiée
+  Propulsé par <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw"><strong>EvoLink</strong></a> — Passerelle API IA Unifiée
 </p>

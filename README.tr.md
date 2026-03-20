@@ -9,7 +9,7 @@
   <a href="#kurulum">Kurulum</a> •
   <a href="#api-key-alma">API Key</a> •
   <a href="#görüntü-oluşturma">Oluştur</a> •
-  <a href="https://evolink.ai">EvoLink</a>
+  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw">EvoLink</a>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## Bu nedir?
 
-[EvoLink](https://evolink.ai) tarafından desteklenen bir [OpenClaw](https://github.com/openclaw/openclaw) skill\'i. Bir skill yükleyin ve AI ajanınız Google\'ın Gemini 3.1 Flash görüntü modeline erişim kazansın — tek bir API üzerinden hızlı metinden görüntüye oluşturma ve görüntü düzenleme.
+[EvoLink](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw) tarafından desteklenen bir [OpenClaw](https://github.com/openclaw/openclaw) skill\'i. Bir skill yükleyin ve AI ajanınız Google\'ın Gemini 3.1 Flash görüntü modeline erişim kazansın — tek bir API üzerinden hızlı metinden görüntüye oluşturma ve görüntü düzenleme.
 
 | Skill | Açıklama | Sağlayıcı |
 |-------|----------|-----------|
@@ -61,7 +61,7 @@ openclaw skills add .
 
 ## API Key Alma
 
-1. [evolink.ai](https://evolink.ai)\'de kaydolun
+1. [evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)\'de kaydolun
 2. Dashboard → API Keys\'e gidin
 3. Yeni bir API anahtarı oluşturun
 4. Ortam değişkeninizde yapılandırın:
@@ -100,5 +100,5 @@ MIT
 ---
 
 <p align="center">
-  Powered by <a href="https://evolink.ai"><strong>EvoLink</strong></a> — Unified AI API Gateway
+  Powered by <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw"><strong>EvoLink</strong></a> — Unified AI API Gateway
 </p>
