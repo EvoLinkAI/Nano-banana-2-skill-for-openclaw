@@ -61,7 +61,7 @@ openclaw skills add .
 
 ## 取得 API Key
 
-1. 在 [evolink.ai](https://evolink.ai/signup?utm_source=github[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)utm_medium=readme[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw)utm_campaign=nano-banana-2-skill-for-openclaw) 註冊
+1. 在 [evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=nano-banana-2-skill-for-openclaw) 註冊
 2. 前往 Dashboard → API Keys
 3. 創建新的 API 金鑰
 4. 設置環境變量：
